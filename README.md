@@ -1,1 +1,1 @@
-# GraduateAssitant
+# Graduate Assistant
